@@ -1,6 +1,13 @@
-# cosmic-applet-plex
+# 𐃲 cosmic-applet-plex 𐃲
 
 A native COSMIC panel applet for Plex Media Server with server status, library scanning, and Now Playing.
+
+---
+
+<img width="372" height="299" alt="cosmic-applet-plex-ss" src="https://github.com/user-attachments/assets/d06c3739-ecee-444c-b31b-18e210768daa" />
+
+---
+
 - Checks server status every 10 seconds and when opening the popup.
 - Shows a connection-status icon at the far right of the **Plex** header,
   with the status description available on hover.
