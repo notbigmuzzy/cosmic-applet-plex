@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Plex
+Comment=Local Plex server status and library scanning
+Type=Application
+Icon=io.github.cosmic-applet-plex
+Exec=cosmic-applet-plex
+Terminal=false
+Categories=COSMIC;Utility;
+NoDisplay=true
+X-CosmicApplet=true
+X-CosmicHoverPopup=Auto
